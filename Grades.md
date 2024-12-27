@@ -31,9 +31,9 @@ Team Project 4: 5/5
 ### Engagement: 20% 
 ---
 
-Engagement: --/20
+Engagement: 20/20
 
-#### Weighted Engagement Total: --% / 20%
+#### Weighted Engagement Total: 20% / 20%
 
 
 ### Research Paper: 20%
@@ -41,21 +41,21 @@ Engagement: --/20
 
 Research Paper Framework: 4/5
 
-Final Research Paper: --/15
+Final Research Paper: 9/15
 
-#### Weighted Research Paper Total: --% / 20%
+#### Weighted Research Paper Total: 13% / 20%
 
 
 ### Final Exam: 20%
 ---
-Final Exam: --/20
+Final Exam: 12/20
 
-#### Weighted Final Exam Total: --% / 20%
+#### Weighted Final Exam Total: 12% / 20%
 
 
 ### Grade:
 ---
 
-#### Weighted Total: --% / 100%
+#### Weighted Total: 84.5% / 100%
 
 #### Final Letter Grade: B
